@@ -1,2 +1,4 @@
-# Initial page
+# Wildfire Labs Policies
+
+Wildfire Labs LLC, a California limited liability company, is committed to ensuring the confidentiality, privacy, integrity, and availability of all electronic protected health information \(ePHI\) it receives, maintains, processes and/or transmits on behalf of its Customers. As providers of compliant, hosted software used by health providers and patients, Wildfire Labs strives to maintain compliance, proactively address information security, mitigate risk for its Customers, and assure known breaches are completely and effectively communicated in a timely manner. The following documents address core policies used by Wildfire Labs to maintain compliance and assure the proper protections of infrastructure used to store, process, and transmit ePHI for PatientIQ Customers.
 
