@@ -1,4 +1,4 @@
-# 3rd Policy Policy
+# 3rd Party Policy
 
 Wildfire Labs makes every effort to assure all 3rd party organizations are compliant and do not compromise the integrity, security, and privacy of Wildfire Labs or Wildfire Labs Customer data. 3rd Parties include Customers, Partners, Subcontractors, and Contracted Developers.
 
