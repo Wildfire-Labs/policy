@@ -1,6 +1,4 @@
-# Untitled
-
-## Data Integrity Policy
+# Data Integrity Policy
 
 Wildfire Labs takes data integrity very seriously. As stewards and partners of Wildfire Labs Customers, we strive to assure data is protected from unauthorized access and that it is available when needed. The following policies drive many of our procedures and technical settings in support of the Wildfire Labs mission of data protection.
 
