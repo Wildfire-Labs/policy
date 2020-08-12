@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Wildfire Labs Policies](README.md)
+* [Policy Management Policy](policy-management-policy.md)
 * [Incident Response Policy](incident-response-policy.md)
 * [HIPAA Inheritance](hipaa-inheritance-try-1.md)
 * [Disposable Media Policy](disposable-media-policy.md)
