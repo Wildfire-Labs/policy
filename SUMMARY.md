@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Wildfire Labs Policies](README.md)
-* [Untitled](untitled-1.md)
+* [Roles Policy](untitled-1.md)
 * [Risk Management Policy](risk-management-policy.md)
 * [Policy Management Policy](policy-management-policy.md)
 * [Incident Response Policy](incident-response-policy.md)
