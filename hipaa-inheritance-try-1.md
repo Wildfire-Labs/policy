@@ -1,10 +1,10 @@
-# HIPAA Inheritance Try 1
+# HIPAA Inheritance
 
 Wildfire Labs partners with [Datica](https://datica.com/) for HIPAA compliant and HITRUST CSF certified hosting. Datica's Platform-as-a-Service \("PaaS"\) allows customers such as Wildfire Labs to inherit certain administrative, physical, technical, organizational, and policy controls as required by HIPAA and HITECH. This section outlines HIPAA and HITECH requirements that Wildfire Labs inherits from Datica \(all Datica policies can be found [here](https://policy.datica.com/)\):
 
 **Administrative Controls**
 
-| Datica Policy Link | Wildfire Labs Inheritance |  |
+| HIPAA Rule | Datica Policy Link | Wildfire Labs Inheritance |
 | :--- | :--- | :--- |
 | Security Management Process - 164.308\(a\)\(1\)\(i\) | [Risk Management Policy](https://policy.datica.com/#4.-risk-management-policy)​ | Yes |
 | Assigned Security Responsibility - 164.308\(a\)\(2\) | [Roles Policy](https://policy.datica.com/#5.-roles-policy)​ | Partially |
