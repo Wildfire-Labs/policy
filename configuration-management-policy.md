@@ -21,8 +21,8 @@ Wildfire Labs standardizes and automates configuration management through the us
 5. An up-to-date inventory of systems is maintained using Google spreadsheets and architecture diagrams hosted on Google Drive. All systems are categorized as production and utility to differentiate based on criticality.
 6. Clocks are synchronized across all systems using NTP. Modifying time data on systems is restricted.
 7. All front end functionality \(developer dashboards and portals\) is separated from backend \(database and app servers\) systems by being deployed on separate servers and in different Virtual Private Networks.
-8. All software and systems are tested using unit tests and end to end tests.
-9. All committed code is reviewed using pull requests \(on Github\) to assure software code quality and proactively detect potential security issues in development.
+8. All software and systems are tested using unit tests, feature tests, and end to end tests.
+9. All committed code is reviewed to assure software code quality and proactively detect potential security issues in development.
 10. Wildfire Labs utilizes development and staging environments that mirror production to assure proper function.
-11. Wildfire Labs also deploys environments locally using Digital Ocean to assure functionality before moving to staging or production.
+11. Wildfire Labs also deploys environments locally using Virtualbox to assure functionality before moving to staging or production.
 
