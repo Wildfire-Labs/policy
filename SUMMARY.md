@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Wildfire Labs Policies](README.md)
+* [Disaster Recovery Policy](disaster-recovery-policy.md)
 * [Data Retention Policy](data-retention-policy.md)
 * [Data Integrity Policy](untitled.md)
 * [Configuration Management Policy](configuration-management-policy.md)
