@@ -1,0 +1,60 @@
+# Wildfire Labs HIPAA Business Associate Agreement \(“BAA”\)
+
+This HIPAA Business Associate Agreement \(this “BAA”\) defines the rights and responsibilities of Provider and Customer with respect to Protected Health Information \(“PHI”\) as defined in the Health Insurance Portability and Accountability Act of 1996 and the regulations promulgated thereunder, including the HITECH Act and Omnibus Rule, as each may be amended from time to time \(collectively, “HIPAA”\). This BAA shall be applicable only in the event and to the extent Provider meets, with respect to Customer, the definition of a Business Associate set forth at 45 C.F.R. §160.103, or applicable successor provisions. This BAA shall only be applicable to Customer’s use of the Service as specified in the Service Subscription Agreement of which this Exhibit B is attached and fully referenced and incorporated herein \(the “Service Subscription Agreement”\). This BAA is intended to ensure that Business Associate and Customer will establish and implement appropriate safeguards where Business Associate may receive, create, maintain, use or disclose in connection with the functions, activities and services that Business Associate performs on behalf of Customer solely to perform its duties and responsibilities under the Service Subscription Agreement.
+
+## **1. Additional Meanings.**
+
+* “Business Associate” shall mean Provider, or Datamonkey LLC.
+* “HITECH ACT” shall mean the Health Information Technology for Economic and Clinical Health Act.
+* “Individual” shall have the same meaning as the term “individual” in 45 CFR § 160.103 and shall include a person who qualifies as a personal representative in accordance with 45 CFR § 164.502\(g\).
+* “Privacy Rule” shall mean the Standards for Privacy of Individually Identifiable Health Information at 45 CFR part 160 and part 164, subparts A and E.
+* “Protected Health Information” or “PHI” shall have the same meaning as the term “protected health information” in 45 CFR § 160.103, limited to the information received by Business Associate from or on behalf of Customer.
+* “Required By Law” shall have the same meaning as the term “required by law” in 45 CFR § 164.103.
+* “Security Rule” shall mean the Security Standards for the Protection of Electronic Protected Health Information, located at 45 CFR Part 160 and Subparts A and C of Part 164.
+
+## **2. Permitted and Required Uses and Disclosures.**
+
+* **2.1 Service Offerings.** Business Associate may use or disclose PHI for or on behalf of Customer as defined in the Service Subscription Agreement.
+* **2.2 Administration and Management of Services.** Business Associate may Use and Disclose PHI as necessary for the sole purpose of the proper management and administration of the Service. Any disclosures under this section will be made only if Business Associate obtains reasonable assurances from the recipient of the PHI that \(i\) the recipient will hold the PHI confidentially and will use or disclose the PHI only as required by law or for the purpose for which it was disclosed to the recipient, and \(ii\) the recipient will notify Business Associate of any instances of which it is aware in which the confidentiality of the information has been breached.
+
+## **3. Obligations of Business Associate.**
+
+* **3.1 Limit on Uses and Disclosures.** Business Associate will use or disclose PHI only as permitted by this BAA or as required by law, provided that any such use or disclosure would not violate HIPAA if done by a Covered Entity, unless permitted for a Business Associate under HIPAA.
+* **3.2 Safeguards.** Business Associate will use reasonable and appropriate safeguards to prevent Use or Disclosure of PHI other than as provided for by this BAA, consistent with the requirements of Subpart C of 45 C.F.R. Part 164 \(with respect to Electronic PHI\) as determined by Business Associate and as reflected in the Service Subscription Agreement.
+* **3.3 Reporting of Impermissible Uses and Disclosures.** Business Associate will report to Customer any Use or Disclosure of PHI not permitted or required by this BAA of which Business Associate becomes aware.
+* **3.4 Reporting of Security Incidents.** Business Associate will report to Customer on no less than fourteen business \(14\) days from the date any Security Incidents involving PHI of which Business Associate becomes aware in which there is a successful unauthorized access, use, disclosure, modification, or destruction of information or interference with system operations in an Information System in a manner that risks the confidentiality, integrity, or availability of such information. Notice is hereby deemed provided, and no further notice will be provided, for unsuccessful attempts at such unauthorized access, use, disclosure, modification, or destruction, such as pings and other broadcast attacks on a firewall, denial of service attacks, port scans, unsuccessful login attempts, or interception of encrypted information where the key is not compromised, or any combination of the above.
+* **3.5 Reporting of Breaches.** Business Associate will report to Customer any Breach of Customer’s Unsecured PHI that Business Associate may discover to the extent required by 45 C.F.R. § 164.410. Business Associate will make such report without unreasonable delay.
+* **3.6 Subcontractors.** Business Associate will ensure that any subcontractors that create, receive, maintain, or transmit PHI on behalf of Business Associate agree to restrictions and conditions at least as stringent as those found in this BAA, and agree to implement reasonable and appropriate safeguards to protect PHI.
+* **3.7 Access to PHI.** Customer acknowledges that Business Associate is not required by this BAA to make disclosures of PHI to Individuals or any person other than Customer, and that Business Associate does not, therefore, expect to maintain documentation of such disclosure as described in 45 CFR § 164.528. In the event that Business Associate does make such disclosure, it shall document the disclosure as would be required for Customer to respond to a request by an Individual for an accounting of disclosures in accordance with 45 CFR §164.504\(e\)\(2\)\(ii\)\(G\) and §164.528, and shall provide such documentation to Customer promptly on Customer’s request. In the event that a request for an accounting is made directly to Business Associate shall, within 5 Business Days, forward such request to Customer.
+* **3.8 Accounting of Disclosures.** Business Associate will make available to Customer the information required to provide an accounting of Disclosures in accordance with 45 C.F.R. § 164.528 of which Business Associate is aware, if requested by Customer.
+* **3.9 Internal Records.** Provider will make its internal practices, books, and records relating to the Use and Disclosure of PHI available to the Secretary of the U.S. Department of Health and Human Services \(“HHS”\) for purposes of determining Customer compliance with HIPAA. Nothing in this section will waive any applicable privilege or protection, including with respect to trade secrets and confidential commercial information.
+
+## **4. Customer’s Obligations:**
+
+* **4.1 Privacy and Security Standards.** Customer is responsible for implementing appropriate privacy and security safeguards in order to protect PHI in compliance with HIPAA and this BAA.
+* **4.2 Roles and Permissions.** Customer is responsible for defining roles and assigning permissions in the Service. Customer is responsible for ensuring all Users have access to the minimal amount of information necessary \(need-to-know\) based upon role and shall abide by all applicable local, state, national, and foreign, laws, treaties and regulations.
+* **4.3 Encryption.** Customer shall encrypt all PHI stored or transmitted outside the Service in accordance with the Secretary of HHS’s Guidance to Render Unsecured Protected Health Information Unusable, Unreadable, or Indecipherable to Unauthorized Individuals, available at [http://www.hhs.gov/ocr/privacy/hipaa/administrative/breachnotificationrule/brguidance.html](http://www.hhs.gov/ocr/privacy/hipaa/administrative/breachnotificationrule/brguidance.html), as it may be updated from time to time, and as may be made available on any successor or related site designated by HHS.
+* **4.4 Necessary Consents.** Customer warrants that it has obtained any necessary authorizations, consents, and other permissions that may be required under applicable law prior to placing Customer Content, including without limitation PHI, on the Service.
+* **4.5 Restrictions on Disclosures.** Customer shall not agree to any restriction requests or place any restrictions in any notice of privacy practices that would cause Business Associate to violate this BAA or any applicable law.
+* **4.6 Compliance with HIPAA.** Customer shall not request or cause Business Associate to make a Use or Disclosure of PHI in a manner that does not comply with HIPAA or this BAA.
+
+## **5. Term and Termination**
+
+* **5.1 Term.** The term of this BAA will commence on the Service Subscription Agreement Effective Date and will remain in effect until the earlier of the termination of the Service Subscription Agreement or notification by Customer that an account is no longer subject to this BAA.
+* **5.2 Effect of Termination.** At termination of this BAA, Business Associate, if feasible, will return or destroy all PHI that Business Associate still maintains, if any. If return or destruction is not feasible, Business Associate will extend the protections of this BAA to the PHI, limit further uses and disclosures to those purposes that make the return of the PHI infeasible, and make not further use or disclosure of PHI.
+* **5.3** If Customer requests contemporaneously with any termination event or notice, Business Associate will allow Customer to have access to Customer’s account for a reasonable period of time following termination as necessary for Customer to retrieve or delete any PHI at its then current monthly recurring rate; provided, however, that if the security of Customer’s servers has been compromised, or the Service Subscription Agreement was terminated by Customer’s failure to use reasonable security precautions, Business Associate may: \(i\) provide Customer with restricted access via a dedicated or private link or tunnel to Customer account or \(ii\) refuse to allow Customer to have access to Customer’s account but will use reasonable efforts to copy Customer data on to media Customer provides to Business Associate, and will ship the media to Customer at Customer expense. **6. No Agency Relationship.** As set forth in the Service Subscription Agreement, nothing in this BAA is intended to make either party an agent of the other. Nothing in this BAA is intended to confer upon the Customer the right or authority to control Business Associate’s conduct in the course of Business Associate complying with the Service Subscription Agreement and BAA.
+
+## **7. Nondisclosure.**
+
+Customer agrees that the terms of this BAA are not publicly known and constitute Business Associate Confidential Information under the Service Subscription Agreement.
+
+## **8. Entire Agreement.**
+
+This BAA is incorporated into, made a part of and subject to the terms, conditions, limitations and other provisions set forth in the Service Subscription Agreement.
+
+## **9. Miscellaneous.**
+
+* **9.1 Amendment.** Customer and Business Associate agrees to take such action as is reasonably necessary to amend this HIPAA BAA from time to time as is necessary for either party to comply with the requirements of the Privacy Rule and related laws and regulations.
+* **9.2 Survival.** Customer and Business Associate’s respective rights and obligations under this HIPAA BAA shall survive the termination of the Agreement.
+* **9.3 Interpretation.** Any ambiguity in the Service Subscription Agreement shall be resolved to permit Customer to comply with HIPAA and the Privacy Rule.
+

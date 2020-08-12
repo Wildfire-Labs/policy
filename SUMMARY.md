@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Wildfire Labs Policies](README.md)
+* [Wildfire Labs HIPAA Business Associate Agreement \(“BAA”\)](wildfire-labs-hipaa-business-associate-agreement-baa.md)
 * [System Access Policy](system-access-policy.md)
 * [Roles Policy](untitled-1.md)
 * [Risk Management Policy](risk-management-policy.md)
