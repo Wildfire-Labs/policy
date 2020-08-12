@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Wildfire Labs Policies](README.md)
+* [Configuration Management Policy](configuration-management-policy.md)
 * [Breach Policy](breach-policy.md)
 * [Auditing Policy](auditing-policy.md)
 * [Approved Tools Policy](approved-tools-policy.md)
