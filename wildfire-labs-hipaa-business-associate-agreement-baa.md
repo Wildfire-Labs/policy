@@ -4,7 +4,7 @@ This HIPAA Business Associate Agreement \(this “BAA”\) defines the rights an
 
 ## **1. Additional Meanings.**
 
-* “Business Associate” shall mean Provider, or Datamonkey LLC.
+* “Business Associate” shall mean Provider, or Wildfire Labs LLC.
 * “HITECH ACT” shall mean the Health Information Technology for Economic and Clinical Health Act.
 * “Individual” shall have the same meaning as the term “individual” in 45 CFR § 160.103 and shall include a person who qualifies as a personal representative in accordance with 45 CFR § 164.502\(g\).
 * “Privacy Rule” shall mean the Standards for Privacy of Individually Identifiable Health Information at 45 CFR part 160 and part 164, subparts A and E.
