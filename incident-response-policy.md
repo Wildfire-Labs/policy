@@ -26,7 +26,7 @@ _Note:_ These policies were adapted from work by the [HIPAA Collaborative of Wis
 
 ## **Incident Management Policies**
 
-The Wildfire Labs incident response process follows the process recommended by [SANS](https://www.sans.org/), an industry leader in security. Process flows are a direct representation of the SANS process which can be found in [this document](https://github.com/realtimeMD/policies/tree/2d4f05f00c14dc71c1bdfcb5abacdacd760ec4a7/sections/incident-flowchart.pdf).
+The Wildfire Labs incident response process follows the process recommended by [SANS](https://www.sans.org/), an industry leader in security. Process flows are a direct representation of the SANS process which can be found in this document.
 
 Wildfire Labs's incident response classifies security-related events into the following categories:
 
